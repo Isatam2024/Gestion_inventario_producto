@@ -1,3 +1,6 @@
+
+//En copiainventario esta la base de datos
+
 CREATE DATABASE inventario;
 
 USE inventario;
